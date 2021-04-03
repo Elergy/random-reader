@@ -1,0 +1,6 @@
+{
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "body": "{\"update_id\":61265845,\"message\":{\"message_id\":5,\"from\":{\"id\":86767488,\"is_bot\":false,\"first_name\":\"Evgenii\",\"last_name\":\"Ponomarev\",\"username\":\"elergy\",\"language_code\":\"en\"},\"chat\":{\"id\":86767488,\"first_name\":\"Evgenii\",\"last_name\":\"Ponomarev\",\"username\":\"elergy\",\"type\":\"private\"},\"date\":1617473585,\"text\":\"crocodile\"}}"
+}
